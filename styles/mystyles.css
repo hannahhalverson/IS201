@@ -1,0 +1,34 @@
+.resumelistheading {
+    font-weight: bold;
+}
+
+.resumelist {
+    font-weight: normal;
+    font-style: normal;
+}
+
+.specificresumelist {
+    font-style: italic;
+}
+
+.contactinfo {
+    color: palevioletred;
+    text-align: center;
+}
+
+
+.interests { 
+    color: palevioletred 
+}
+
+.newsiteheading {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+.anchor {
+    color: white;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}

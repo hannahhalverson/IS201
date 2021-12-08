@@ -1,0 +1,68 @@
+body {
+    background-color: blue;
+    font-family: garamond, serif;
+}
+
+.mainbody {
+    top: 100px;
+    left: 100px;
+    right: 100px;
+    bottom: 60px;
+}
+
+header {
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    height: 50px;
+    z-index: 2;
+    background-color: pink;
+    border-bottom: solid 2px lightsteelblue;
+    font-family: arial, sans-serif;
+    font-weight: bold;
+}
+
+.subheader {
+    padding-right: 15px;
+    padding-top: 15px;
+    text-align: right;
+}
+
+.footer {
+    bottom: 20px;
+    left: 5px;
+    right: 5px;
+    height: 15px;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+    position: fixed;
+}
+
+p {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+a:visited {
+    color: blue)
+}
+
+.normal {
+    position: absolute;
+}
+
+.right {
+    text-align: right;
+}
